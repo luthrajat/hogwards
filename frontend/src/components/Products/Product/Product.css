@@ -1,0 +1,88 @@
+.profile {
+       width: 200px;
+       min-height: 250px;
+       border: 1px solid #000;
+       display: inline-block;
+       margin: 5px;
+}
+
+/*.profile-selector {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 100%;
+  background-color: #000;
+  font-size: 1.3vw;
+  line-height: 1.2em;
+  padding-top: 12%;
+  z-index: 5
+}
+
+@media screen and (max-width:800px) {
+  .profile-selector {
+    font-size: 12px
+  }
+}
+
+.profile-selector .headline {
+  color: #fff;
+  font-size: 3.5vw;
+  text-align: center;
+  line-height: 1.2em
+}
+
+@media screen and (max-width:800px) {
+  .profile-selector .headline {
+    font-size: 30px
+  }
+}
+
+.profile-selector .profiles {
+  min-height: 200px;
+  overflow: visible;
+  padding: 20px 0;
+  text-align: center
+}
+
+.profile-selector .profile {
+  display: inline-block;
+  height: 10vw;
+  margin: 0 1vw;
+  max-height: 200px;
+  max-width: 200px;
+  min-height: 84px;
+  min-width: 84px;
+  padding: 0 10px 40px;
+  position: relative;
+  text-decoration: none;
+  width: 10vw
+}
+
+.profile-selector .profile-link {
+  display: block
+}
+
+.profile-selector .profile-name {
+  position: absolute;
+  left: 0;
+  right: 0;
+  color: grey;
+  display: block;
+  margin: 0;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis
+}
+
+.profile-selector .profile-image {
+  border: solid #1a1a1a .3em;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 100%
+}
+
+.profile-selector .profile-image:hover {
+  border-color: #ccc
+}*/

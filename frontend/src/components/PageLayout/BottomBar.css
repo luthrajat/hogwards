@@ -1,0 +1,13 @@
+.footer {
+  position: absolute;
+  /*margin-top: 2000px;*/
+  height: 80px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  /*margin-top: 15px;*/
+  /*padding-top: 1rem;*/
+  clear: both;
+  background-color: #efefef;
+  text-align: center;
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ecom",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "bootstrap": "^3.3.7",
+    "material-ui": "^0.19.4",
+    "react": "^16.0.0",
+    "react-bootstrap": "^0.31.3",
+    "react-bootstrap-table": "^4.0.6",
+    "react-data-grid": "^2.0.60",
+    "react-dom": "^16.0.0",
+    "react-motion-menu": "^0.4.4",
+    "react-radial": "^1.0.8",
+    "react-radial-menu": "^0.1.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.0.14"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
